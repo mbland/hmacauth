@@ -74,8 +74,8 @@ stack:
 #     url: URL for the text of the license
 licenses:
   hmacauth:
-    name: CC0
-    url: https://github.com/18F/hmacauth/blob/master/LICENSE.md
+    name: ISC
+    url: https://github.com/mbland/hmacauth/blob/master/LICENSE.md
 
 # Blogs or websites associated with project development
 #blog:
@@ -91,7 +91,7 @@ licenses:
 
 # Email addresses of points-of-contact
 contact:
-- url: mailto:michael.bland@acm.org
+- url: mailto:mbland@acm.org
   text: Mike Bland
-- url: https://github.com/18F/hmacauth/issues
-  text: 18F/hmacauth issues
+- url: https://github.com/ISC/hmacauth/issues
+  text: mbland/hmacauth issues
